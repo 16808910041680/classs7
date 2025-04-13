@@ -8,24 +8,24 @@ if a == "N":
         if c == "Yuri":
             print ("Hello, Arthur. Please take a seat.")
         else:
-            print ("You are an impersonator. Please take a seat, because I bet you have Asian parents. This exam is the medical degree exam. You need a 100 to pass. Now, guards, please escort this man into the exam room.")
+            print ("You are an impersonator. Please take a seat, because I bet you have Asian parents. This exam is the medical degree exam. You need a 100 to pass. Now, guards, please escort this person into the exam room.")
     elif b > "45" and b < "70":
-        print ("You are an impersonator. Please take a seat, because I bet you have Asian parents. This exam is the medical degree exam. You need a 100 to pass. Now, guards, please escort this man into the exam room.")
+        print ("You are an impersonator. Please take a seat, because I bet you have Asian parents. This exam is the medical degree exam. You need a 100 to pass. Now, guards, please escort this person into the exam room.")
     elif b > "70" and b < "86":
         d = input(("We have sent you an email. Please verify your number. Type in the 4 digit number that was sent."))
         if d == "1049": 
             print ("Hello, Solomon. Please take a seat.")
         else:
-             print ("You are an impersonator. Please take a seat, because I bet you have Asian parents. This exam is the medical degree exam. You need a 100 to pass. Now, guards, please escort this man into the exam room.")
+             print ("You are an impersonator. Please take a seat, because I bet you have Asian parents. This exam is the medical degree exam. You need a 100 to pass. Now, guards, please escort this person into the exam room.")
     elif b > "86" and b < "100":
         ("Welcome, Ms. Pleasetake. A. Seat.")
     elif b < "100":
         ("You clearly didn't listen to the instructions.")
 elif a == "Y":
     if b > "45" and b < "70":
-        ("Welcome, Verificator. Please supervise the exam students.")
+        ("Welcome, Administrator. Please supervise the exam students.")
     else: 
-        ("You may not take the exam.")
+        ("You may not take the exam. Actually, you have to take the exam, but you're also not permitted to take the exam. There are no makeup exams. Good luck taking the exam without permission.")
 else: 
     print ("You are the worst impersonator I have ever seen. Please take a seat in this 100-page 30 minute medical exam.")
 

@@ -22,7 +22,7 @@ if a == "N":
     elif b < "100":
         ("You clearly didn't listen to the instructions.")
 elif a == "Y":
-    if b >ho"45" and b < "70":
+    if b > "45" and b < "70":
         ("Welcome, Verificator. Please supervise the exam students.")
     else: 
         ("You may not take the exam.")
